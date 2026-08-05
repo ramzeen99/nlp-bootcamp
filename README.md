@@ -27,6 +27,7 @@ Projets pratiques pour maîtriser le NLP de A à Z.
 | TP | Titre | Compétence | Score |
 |----|-------|------------|-------|
 | TP6 | Moteur de Recherche TF-IDF | Cosine similarity, TF-IDF | ✅ |
+| TP7 | Word2Vec Embeddings | GloVe, analogies, PCA | ✅ |
 
 ---
 
