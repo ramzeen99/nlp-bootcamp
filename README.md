@@ -29,6 +29,7 @@ Projets pratiques pour maîtriser le NLP de A à Z.
 | TP6 | Moteur de Recherche TF-IDF | Cosine similarity, TF-IDF | ✅ |
 | TP7 | Word2Vec Embeddings | GloVe, analogies, PCA | ✅ |
 | TP8 | Clustering Documents | Sentence Transformers, K-Means, UMAP | ✅ |
+| TP9 | Quasi-Doublons MinHash/LSH | Jaccard, shingles, LSH | ✅ |
 
 ---
 
