@@ -30,6 +30,7 @@ Projets pratiques pour maîtriser le NLP de A à Z.
 | TP7 | Word2Vec Embeddings | GloVe, analogies, PCA | ✅ |
 | TP8 | Clustering Documents | Sentence Transformers, K-Means, UMAP | ✅ |
 | TP9 | Quasi-Doublons MinHash/LSH | Jaccard, shingles, LSH | ✅ |
+| TP10 | Projet Final Niveau 2 | Moteur complet |
 
 ---
 
